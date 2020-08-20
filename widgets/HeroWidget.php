@@ -20,7 +20,7 @@ class HeroWidget extends Widget
     /** @var $bundle AppAsset */
     public $bundle;
     /** @var FashionStoreV1HeroSlider $model
-     * @todo возможность пердать модель извне
+     * @todo возможность передать модель извне
      */
     public $model;
 
